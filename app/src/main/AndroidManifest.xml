@@ -2,8 +2,8 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.abim.lks_restaurant">
 
-    <uses-permission android:name="android.permission.INTERNET"/>
-    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE"/>
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
 
     <application
         android:allowBackup="true"
@@ -13,6 +13,12 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.LKS_Restaurant"
         android:usesCleartextTraffic="true">
+        <activity
+            android:name=".DetailActivity"
+            android:exported="false" />
+        <activity
+            android:name=".ViewActivity"
+            android:exported="false" />
         <activity
             android:name=".DashboardActivity"
             android:exported="true" />

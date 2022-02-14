@@ -3,6 +3,14 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/Tole/AndroidStudioProjects/LKS-Restaurant-Mobile/app/src/main/res/drawable/ic_baseline_food_bank_24.xml" value="0.3275" />
+        <entry key="..\:/Users/Tole/AndroidStudioProjects/LKS-Restaurant-Mobile/app/src/main/res/drawable/ic_baseline_restaurant_menu_24.xml" value="0.3275" />
+        <entry key="..\:/Users/Tole/AndroidStudioProjects/LKS-Restaurant-Mobile/app/src/main/res/layout/activity_dashboard.xml" value="0.2758152173913043" />
+        <entry key="..\:/Users/Tole/AndroidStudioProjects/LKS-Restaurant-Mobile/app/src/main/res/layout/activity_detail.xml" value="0.5" />
+        <entry key="..\:/Users/Tole/AndroidStudioProjects/LKS-Restaurant-Mobile/app/src/main/res/layout/activity_login.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Tole/AndroidStudioProjects/LKS-Restaurant-Mobile/app/src/main/res/layout/activity_main.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Tole/AndroidStudioProjects/LKS-Restaurant-Mobile/app/src/main/res/layout/activity_view.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Tole/AndroidStudioProjects/LKS-Restaurant-Mobile/app/src/main/res/layout/data_row.xml" value="0.36666666666666664" />
         <entry key="..\:/Users/USER/AndroidStudioProjects/LKS_Restaurant/app/src/main/res/drawable/back.xml" value="0.335" />
         <entry key="..\:/Users/USER/AndroidStudioProjects/LKS_Restaurant/app/src/main/res/layout/activity_dashboard.xml" value="0.36666666666666664" />
         <entry key="..\:/Users/USER/AndroidStudioProjects/LKS_Restaurant/app/src/main/res/layout/activity_login.xml" value="0.36666666666666664" />

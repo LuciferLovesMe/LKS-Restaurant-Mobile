@@ -1,7 +1,7 @@
 package com.abim.lks_restaurant;
 
 public class MyRequest {
-    private static final String baseURL = "http://192.168.129.180:1212/";
+        private static final String baseURL = "http://192.168.1.6:789/";
     private static final String loginURL = "api/member";
     private static final String viewURL = "api/viewOrder";
     private static final String fdURL = "api/fd";
